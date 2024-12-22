@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou um desenvolvedor front-end em formação, com foco em tecnologias como HTML, CSS, JavaScript, React, Git, GitHub e SQL.
+Sou um desenvolvedor front-end junior, com foco em tecnologias como HTML, CSS, JavaScript, React, Git, GitHub e SQL.
 
 
 ## 🌐 Socials:
